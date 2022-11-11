@@ -1,5 +1,6 @@
 # Sample-site
-Sample site-responsive
+### Sample site-responsive
+
 Simple site example from Flex
 
 ![Screenshot (54)](https://user-images.githubusercontent.com/110972269/201291073-6b8c0ac3-e1e4-4030-8bfd-80931b758f80.png)
